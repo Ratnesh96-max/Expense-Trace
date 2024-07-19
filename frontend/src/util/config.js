@@ -1,1 +1,2 @@
-export const BASE_URL = "http://localhost:8080";
+export const BASE_URL =
+  "https://expense-trace-hf7sfnfxi-vs-ratnesh-pillais-projects.vercel.app";
